@@ -49,7 +49,7 @@ I'm a passionate junior full-stack developer with a strong foundation in both fr
 - ✨ [Storefront Api](https://github.com/MarianWadia/Udacity-storefrontApi): Backend Api routes for handling products
 - ✨ [Image Processing Api](https://github.com/MarianWadia/Udacity-1st-Image-processing-api): Free image resizing and saving processed image locally.
 
-You can find more of my projects and repositories on my [GitHub Profile](https://github.com/MarianWadia). Additionally, you can check out live versions of some of my projects on my [Portfolio](https://MarianIsrael.com)
+You can find more of my projects and repositories down below feel free to go check them. Additionally, you can reach out live versions of some of my projects on my [Portfolio](https://MarianIsrael.com)
 
 <!-- Contact and Connect Section -->
 ## Contact & Connect
