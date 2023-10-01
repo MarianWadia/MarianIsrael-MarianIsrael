@@ -48,7 +48,7 @@ I'm a passionate junior full-stack developer with a strong foundation in both fr
 
 - ✨ [Storefront Api](https://github.com/MarianWadia/Udacity-storefrontApi): Backend Api routes for handling products
 - ✨ [Image Processing Api](https://github.com/MarianWadia/Udacity-1st-Image-processing-api): Free image resizing and saving processed image locally.
-- ✨ [React TODO List](https://github.com/MarianWadia/TodoList-Firebase): Todo app built with React.js, Tailwind CSS, and Firebase. It allows users to create, read, update, and delete tasks.
+- ✨ [TodoList-Firebase](https://github.com/MarianWadia/TodoList-Firebase): Todo app built with React.js, Tailwind CSS, and Firebase. It allows users to create, read, update, and delete tasks.
 
 - ✨ [Recipe App](https://github.com/MarianWadia/Delicious-ReciepeApp): Web application built using React that allows users to browse, search, and save recipes.
 
