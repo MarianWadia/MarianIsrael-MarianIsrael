@@ -55,7 +55,7 @@ I'm a passionate junior full-stack developer with a strong foundation in both fr
 - ✨ [Quiz App](https://github.com/MarianWadia/QuizApp): Quiz app is built with React and Vite that allows users to take quizzes on various topics and get their scores immediately.
 
 
-You can find more of my projects and their live demos here on <a href="https://marianwadia.github.io/MarianWadia_/" target="_blank">My Portfolio</a> feel free to go check them. 
+You can find more of my projects and their live demos here on [My Portfolio](https://marianwadia.github.io/MarianWadia_/){:target="_blank"} feel free to go check them. 
 
 <!-- Contact and Connect Section -->
 ## Contact & Connect
