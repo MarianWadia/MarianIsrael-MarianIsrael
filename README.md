@@ -22,7 +22,7 @@ I'm a passionate junior full-stack developer with a strong foundation in both fr
 <!-- Technologies Section -->
 ## Technologies
 <div style="display: flex;">
-<img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="Image Description" width="80" height="80">
+<img src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Next.js-900x0.png" alt="Image Description" width="80" height="80">
 
 <img src="https://th.bing.com/th/id/R.c3ba82a536fe4983dad4c06b578dcd5d?rik=F2s%2bS%2fWmkU2dew&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f584830f5cef1014c0b5e4aa1.png&ehk=nr30%2foGRF6ObcWbuK6%2b%2bzHxe3w8Jb0cawQ6zBp1sH3E%3d&risl=&pid=ImgRaw&r=0" alt="Image Description" width="80" height="80">
 
