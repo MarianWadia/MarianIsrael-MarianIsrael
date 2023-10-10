@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hello, I'm Marian Israel 👋
+# Hello, I'm Marian Wadia 👋
 
 I'm a passionate junior full-stack developer with a strong foundation in both front-end and back-end development. Here's a bit about me:
 
@@ -55,13 +55,13 @@ I'm a passionate junior full-stack developer with a strong foundation in both fr
 - ✨ [Quiz App](https://github.com/MarianWadia/QuizApp): Quiz app is built with React and Vite that allows users to take quizzes on various topics and get their scores immediately.
 
 
-You can find more of my projects and repositories down below feel free to go check them. Additionally, you can reach out live versions of some of my projects on my [Portfolio](https://MarianIsrael.com)
+You can find more of my projects and repositories down below feel free to go check them. Additionally, you can reach out live versions of some of my projects on my [Portfolio](https://marianwadia.github.io/MarianWadia_/)
 
 <!-- Contact and Connect Section -->
 ## Contact & Connect
 
 - 📧 You can reach out to me via email at [marianwadia55@gmail.com](mailto:marianwadia55@gmail.com).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/marian-israel-205605219/).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/marian-wadia-205605219/).
 
 <!-- Closing Section -->
 ## Closing Thoughts
