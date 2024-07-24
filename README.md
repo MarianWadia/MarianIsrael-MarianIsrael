@@ -1,7 +1,7 @@
 <!-- Header -->
 # Hello, I'm Marian Wadia 👋
 
-I'm a passionate junior full-stack developer with a strong foundation in both front-end and back-end development. Here's a bit about me:
+I'm a passionate mid-level full-stack developer with a strong foundation in both front-end and back-end development. Here's a bit about me:
 
 <!-- About Section -->
 ## About Me
